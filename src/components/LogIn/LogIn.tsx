@@ -21,10 +21,6 @@ const LogIn: React.FC = () => {
         }
     }
 
-    // useEffect(() => {
-    //     return () => reset()
-    // }, [])
-
     return (
         <>
             <section className={styles.login}>
